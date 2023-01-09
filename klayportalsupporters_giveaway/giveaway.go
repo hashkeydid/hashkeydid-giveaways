@@ -10,7 +10,7 @@ import (
 )
 
 var (
-	seedHash   string = ""
+	seedHash   string = "0x2252cb32c398c9fcb89a4ee0a71e47231d8128ad0a393d421fe258870508beb4"
 	totalLucky        = 100
 )
 
